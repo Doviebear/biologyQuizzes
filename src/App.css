@@ -5,6 +5,7 @@
 
 a {
   text-decoration: none;
+  color: inherit;
 }
 :root {
   --backgroundColor: #292c33;
@@ -19,6 +20,8 @@ a {
 .main {
   background-color: var(--backgroundColor);
   position: relative;
+  width: 100vw;
+  height: 100vh;
 }
 
 .header {
@@ -29,7 +32,7 @@ a {
   display: grid;
   grid-template-columns: 33vw 34vw 33vw;
   grid-template-rows: auto;
-  grid-template-areas: ". title help";
+  grid-template-areas: "back title help";
 }
 
 .headerTitle {
@@ -44,10 +47,19 @@ a {
 #helpButton {
   grid-area: help;
   justify-self: end;
-  padding-right: 20px;
+  padding-right: 5vw;
   align-self: center;
   font-size: 36px;
   cursor: pointer;
+}
+
+#backButton {
+  grid-area: back;
+  justify-self: start;
+  padding-left: 5vw;
+  align-self: center;
+  font-size: 24px;
+  font-weight: 700;
 }
 
 .buttonArray {
