@@ -1,6 +1,83 @@
 * {
-  font-family: 'IBM Plex Sans', sans-serif;
-  font-family: 'IBM Plex Serif', serif;
   padding: 0;
   margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+:root {
+  --backgroundColor: #292c33;
+  --headerColor: #212329;
+  --textColor: #ffffff;
+  --clickableText: #80d8f7;
+  --hoveredText: #4091ad;
+  --wrongAnswerText: #eb4460;
+  --correctAnswerText: #90f780;
+}
+
+.main {
+  background-color: var(--backgroundColor);
+  position: relative;
+}
+
+.header {
+  background-color: var(--headerColor);
+  position: relative;
+  height: 10vh;
+  width: 100vw;
+  display: grid;
+  grid-template-columns: 33vw 34vw 33vw;
+  grid-template-rows: auto;
+  grid-template-areas: ". title help";
+}
+
+.headerTitle {
+  font-family: "IBM Plex Serif", sans-serif;
+  font-weight: 300;
+  color: var(--textColor);
+  grid-area: title;
+  justify-self: center;
+  align-self: center;
+}
+
+#helpButton {
+  grid-area: help;
+  justify-self: end;
+  padding-right: 20px;
+  align-self: center;
+  font-size: 36px;
+  cursor: pointer;
+}
+
+.buttonArray {
+  display: grid;
+  position: relative;
+  height: 90vh;
+  width: 100vw;
+  grid-template-columns: 33vw 34vw 33vw;
+  grid-template-rows: auto;
+}
+
+.menuButtonWrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.menuImg {
+  width: 30vh;
+  height: 30vh;
+  padding-bottom: 5vh;
+}
+
+.buttonText {
+  color: var(--clickableText);
+  font-family: "IBM Plex Sans", serif;
+  font-size: 24px;
+}
+
+.buttonText:hover {
+  color: var(--hoveredText);
 }
