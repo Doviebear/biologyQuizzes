@@ -36,7 +36,7 @@ a {
 }
 
 .headerTitle {
-  font-family: "IBM Plex Serif", sans-serif;
+  font-family: "IBM Plex Serif";
   font-weight: 300;
   color: var(--textColor);
   grid-area: title;
@@ -86,10 +86,69 @@ a {
 
 .buttonText {
   color: var(--clickableText);
-  font-family: "IBM Plex Sans", serif;
+  font-family: "IBM Plex Sans";
   font-size: 24px;
 }
 
 .buttonText:hover {
   color: var(--hoveredText);
+}
+
+.questionWrapper {
+  display: grid;
+  grid-template-columns: 100vw;
+  grid-template-rows: 35vh 50vh;
+}
+
+.questionText {
+  color: var(--textColor);
+  text-align: center;
+  justify-self: center;
+  align-self: center;
+  font-family: "IBM Plex Serif";
+  font-weight: 500;
+  font-size: 48px;
+  padding-top: 5vh;
+}
+
+.answerArray {
+  display: grid;
+  grid-template-columns: 50vw 50vw;
+  grid-template-rows: 25vh 25vh;
+}
+
+.answerButton {
+  background-color: Transparent;
+  outline: none;
+  border: none;
+  color: var(--clickableText);
+  font-family: "IBM Plex Sans";
+  font-size: 24px;
+}
+
+.answerButton:hover {
+  color: var(--hoveredText);
+}
+
+.explanationWrapper {
+  display: flex;
+  height: 90vh;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.explanationText {
+  color: var(--textColor);
+  text-align: center;
+  font-family: "IBM Plex Serif";
+  font-weight: 500;
+  font-size: 48px;
+  padding-top: 7.5vh;
+}
+
+#explanationButton {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  padding-top: 5vh;
 }
