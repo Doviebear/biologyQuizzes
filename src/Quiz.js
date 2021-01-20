@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "./App.css";
 import { Link } from "react-router-dom";
+import { useParams } from "react-router";
 
 function Quiz() {
   const [quizJson, setQuizJson] = useState({});
@@ -8,9 +9,12 @@ function Quiz() {
   const [showQuestion, setShowQuestion] = useState(true);
   const [showQuiz, setShowQuiz] = useState(true);
 
-  // TODO load in json based on url using match
+  let { id } = useParams();
+
   useEffect(() => {
-    setQuizJson(require("./data/testing.json"));
+    const allQuizData = require("./data/quizzes.json");
+    const myQuizData = allQuizData[id];
+    setQuizJson(myQuizData);
     console.log("updated Quiz Json, it is now: ");
     console.log(quizJson);
   });
