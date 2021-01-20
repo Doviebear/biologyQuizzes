@@ -152,3 +152,11 @@ a {
   border: none;
   padding-top: 5vh;
 }
+
+#endScreenButton {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  padding-top: 5vh;
+  text-align: center;
+}

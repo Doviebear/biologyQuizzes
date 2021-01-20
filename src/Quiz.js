@@ -6,6 +6,7 @@ function Quiz() {
   const [quizJson, setQuizJson] = useState({});
   const [currentQuestion, setCurrentQuestion] = useState({ answers: [] });
   const [showQuestion, setShowQuestion] = useState(true);
+  const [showQuiz, setShowQuiz] = useState(true);
 
   // TODO load in json based on url using match
   useEffect(() => {
@@ -22,6 +23,14 @@ function Quiz() {
       console.log(currentQuestion);
     }
   }, [quizJson]);
+
+  var QuizPage = () => {
+    return (
+      <div className="quizPage">
+        {showQuestion ? <Question /> : <Explanation />}
+      </div>
+    );
+  };
 
   var Question = () => {
     return (
@@ -59,6 +68,17 @@ function Quiz() {
     );
   };
 
+  var EndScreen = () => {
+    return (
+      <div className="explanationWrapper">
+        <h3 className="explanationText">Boo!</h3>
+        <Link to="/" className="buttonText" id="endScreenButton">
+          Go Back to Quizzes
+        </Link>
+      </div>
+    );
+  };
+
   function answerButtonPressed(e) {
     console.log("Answer button pressed, value is: ");
     console.log(e.target.value);
@@ -80,8 +100,15 @@ function Quiz() {
         break;
       }
     }
-    setCurrentQuestion(quizJson.questions[nextQuestion]);
-    setShowQuestion(true);
+    console.log("Next Question is: ");
+    console.log(nextQuestion);
+    if (nextQuestion !== quizJson.questions.length) {
+      setCurrentQuestion(quizJson.questions[nextQuestion]);
+      setShowQuestion(true);
+    } else {
+      console.log("No more questions!");
+      setShowQuiz(false);
+    }
   }
   return (
     <div className="main">
@@ -95,9 +122,7 @@ function Quiz() {
           ?
         </h2>
       </div>
-      <div className="quizPage">
-        {showQuestion ? <Question /> : <Explanation />}
-      </div>
+      {showQuiz ? <QuizPage /> : <EndScreen />}
     </div>
   );
 }
