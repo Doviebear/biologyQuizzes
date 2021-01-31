@@ -1,0 +1,1421 @@
+{
+  "cell": {
+    "title": "Cell Biology",
+    "questions": [
+      {
+        "questionText": "Which of these cell organelles is responsible for the assembly of proteins?",
+        "answers": [
+          { "answerText": "Ribosome", "correct": "true" },
+          { "answerText": "Golgi body", "correct": "false" },
+          { "answerText": "Vacuole", "correct": "false" },
+          { "answerText": "Grand Canyon", "correct": "false" }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "Which of these cell organelles physically contains the genetic \u201ccode\u201d that determines the behavior of the cell?",
+        "answers": [
+          { "answerText": "Ms. Brandriss", "correct": "false" },
+          { "answerText": "Cell membrane", "correct": "false" },
+          { "answerText": "Nucleus", "correct": "true" },
+          { "answerText": "Golgi body", "correct": "false" }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "Which of these cell organelles is responsible for controlling the flow of substances into, and out of, the cell?",
+        "answers": [
+          { "answerText": "France", "correct": "false" },
+          { "answerText": "Centrioles", "correct": "false" },
+          { "answerText": "Endoplasmic reticulum", "correct": "false" },
+          { "answerText": "Cell membrane", "correct": "true" }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "This organelle, found in both \u201csmooth\u201d and \u201crough\u201d variations, is a membranous network that transports materials throughout the cell.",
+        "answers": [
+          { "answerText": "Transportosome", "correct": "false" },
+          { "answerText": "Endoplasmic reticulum", "correct": "true" },
+          { "answerText": "Tonoplasts", "correct": "false" },
+          { "answerText": "Inflammasome", "correct": "false" }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "This organelle contains enzymes which are used to degrade and destroy unneeded, obsolete, or foreign molecules.",
+        "answers": [
+          { "answerText": "Ribosome", "correct": "false" },
+          { "answerText": "Chromosome", "correct": "false" },
+          { "answerText": "Lysosome", "correct": "true" },
+          { "answerText": "Chloroplast", "correct": "false" }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "Which of these organelles is found in eukaryotic cells, but not in prokaryotic cells?",
+        "answers": [
+          { "answerText": "Nucleus", "correct": "true" },
+          { "answerText": "Cell membrane", "correct": "false" },
+          { "answerText": "Ribosome", "correct": "false" },
+          { "answerText": "Cytoplasm", "correct": "false" }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "The fluid mosaic model is a description of which cell organelle, found in prokaryotic and eukaryotic cells alike?",
+        "answers": [
+          { "answerText": "Chloroplast", "correct": "false" },
+          { "answerText": "Nucleolus", "correct": "false" },
+          { "answerText": "Endoplasmic reticulum", "correct": "false" },
+          { "answerText": "Cell membrane", "correct": "true" }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "Which organelle, visible in an electron microscope as a system of flat membranous sacs, serves to refine and package proteins?",
+        "answers": [
+          { "answerText": "Cell wall", "correct": "false" },
+          { "answerText": "Centrioles", "correct": "false" },
+          { "answerText": "Golgi apparatus", "correct": "true" },
+          { "answerText": "Cell membrane", "correct": "false" }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "Which organelle is popularly conceived of as the \u201cpowerhouse\u201d of the cell?",
+        "answers": [
+          { "answerText": "Chloroplast", "correct": "false" },
+          { "answerText": "Midichlorian", "correct": "false" },
+          { "answerText": "Flagellum", "correct": "false" },
+          { "answerText": "Mitochondrion", "correct": "true" }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "All of the organelles listed below are found in both animal cells and plant cells, with the EXCEPTION of:",
+        "answers": [
+          { "answerText": "Nucleus", "correct": "false" },
+          { "answerText": "Ribosomes", "correct": "false" },
+          { "answerText": "Cell membrane", "correct": "false" },
+          { "answerText": "Cell wall", "correct": "true" }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "These organelles are essentially enclosed \u201cbubbles\u201d, variously used to transport, store, or isolate various substances within the cell:",
+        "answers": [
+          { "answerText": "Plastids and mitosomes", "correct": "false" },
+          { "answerText": "Vesicles and vacuoles", "correct": "true" },
+          { "answerText": "Peroxisomes and melanosomes", "correct": "false" },
+          { "answerText": "Ribosomes and chromosomes", "correct": "false" }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "This organelle consists of threadlike strands composed of the protein actin, which can assemble and disassemble quickly to produce cell movement.",
+        "answers": [
+          { "answerText": "Microfilaments", "correct": "true" },
+          { "answerText": "Microtubules", "correct": "false" },
+          { "answerText": "Microvasculature", "correct": "false" },
+          { "answerText": "Microchondria", "correct": "false" }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "Which organelle is responsible for the synthesis of the components of ribosomes?",
+        "answers": [
+          { "answerText": "Nucleus", "correct": "false" },
+          { "answerText": "Nucleolus", "correct": "true" },
+          { "answerText": "Malleolus", "correct": "false" },
+          { "answerText": "Tonoplast", "correct": "false" }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "In conjunction with microfilaments, this organelle is used to provide structure and shape to cells, and consists of polymers of tubulin \u2013 the same material found in cilia and flagella.",
+        "answers": [
+          { "answerText": "Microplasmic reticulum", "correct": "false" },
+          { "answerText": "Cytoplasmic filaments", "correct": "false" },
+          { "answerText": "Actin rockets", "correct": "false" },
+          { "answerText": "Microtubules", "correct": "true" }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "Animal cells have mitochondria. Plant cells have:",
+        "answers": [
+          { "answerText": "Only mitochondria", "correct": "false" },
+          { "answerText": "Only chloroplasts", "correct": "false" },
+          {
+            "answerText": "Both mitochondria and chloroplasts",
+            "correct": "true"
+          },
+          {
+            "answerText": "Neither mitochondria nor chloroplasts",
+            "correct": "false"
+          }
+        ],
+        "explanationText": ""
+      }
+    ]
+  },
+  "biochemistry": {
+    "title": "Biochemistry",
+    "questions": [
+      {
+        "questionText": "What is the reason that atoms form chemical bonds with one another?",
+        "answers": [
+          {
+            "answerText": "To gain as many electrons as possible.",
+            "correct": "false"
+          },
+          {
+            "answerText": "To completely fill up its outermost valence shell with electrons.",
+            "correct": "true"
+          },
+          {
+            "answerText": "To neutralize the positive charge found in the nucleus.",
+            "correct": "false"
+          },
+          {
+            "answerText": "To neutralize the negative charge found in the electron shell.",
+            "correct": "false"
+          }
+        ],
+        "explanationText": "An atom reacts with other atoms to achieve a full outer shell of electrons. For example, a chlorine atom can do so by gaining one more electron. A lithium atom can do so by losing its one, outermost electron."
+      },
+      {
+        "questionText": "The definition of a compound is:",
+        "answers": [
+          {
+            "answerText": "A group of atoms joined together by chemical bonding.",
+            "correct": "true"
+          },
+          {
+            "answerText": "Synonymous with \u201celement.\u201d",
+            "correct": "false"
+          },
+          {
+            "answerText": "A group of chemicals that is either acidic or basic.",
+            "correct": "false"
+          },
+          {
+            "answerText": "A group of atoms in close proximity to one another.",
+            "correct": "false"
+          }
+        ],
+        "explanationText": "For example, one sodium atom can transfer its single outermost electron to one chloride atom. The result is the compound sodium chloride, or table salt."
+      },
+      {
+        "questionText": "Which type of bond involves the complete transfer of electrons from one atom to another?",
+        "answers": [
+          { "answerText": "Polar covalent bond.", "correct": "false" },
+          { "answerText": "Non-polar covalent bond.", "correct": "false" },
+          { "answerText": "Hydrogen bond.", "correct": "false" },
+          { "answerText": "Ionic bond.", "correct": "true" }
+        ],
+        "explanationText": "In an ionic bond, one atom gains one or more electrons at the expense of another atom. Sodium chloride is an example of a compound formed by the ionic bonding of sodium to chloride."
+      },
+      {
+        "questionText": "Water is best described as:",
+        "answers": [
+          {
+            "answerText": "An inorganic, polar, ionic compound.",
+            "correct": "false"
+          },
+          {
+            "answerText": "An organic, polar, covalent atom.",
+            "correct": "false"
+          },
+          {
+            "answerText": "An inorganic, polar, covalent compound.",
+            "correct": "true"
+          },
+          {
+            "answerText": "An inorganic, non-polar, covalent compound.",
+            "correct": "false"
+          }
+        ],
+        "explanationText": "An organic compound is one that has carbon-to-hydrogen bonds; water is an inorganic compound, because it consists only of oxygen atoms bonded to hydrogen atoms. Water is a covalent compound, because the oxygen and hydrogen atoms share electrons (rather than transferring them like in ionic compounds). And finally, water is a polar compound, because electrons are shared unequally between its oxygen and hydrogen atoms, so the molecule has a positively-charged pole and a negatively-charged pole."
+      },
+      {
+        "questionText": "What are hydrogen bonds?",
+        "answers": [
+          {
+            "answerText": "Hydrogen bonds are weak, temporary bonds that form between two polar covalent molecules, such as water. ",
+            "correct": "true"
+          },
+          {
+            "answerText": "Hydrogen bonds are weak, temporary bonds that form between two non-polar covalent molecules, such as carbon dioxide.",
+            "correct": "false"
+          },
+          {
+            "answerText": "Hydrogen bonds are weak, temporary bonds that form between two molecules of hydrogen gas (H2).",
+            "correct": "false"
+          },
+          {
+            "answerText": "Hydrogen bonds are strong, permanent bonds that form when one atom transfers its electrons to another atom.",
+            "correct": "false"
+          }
+        ],
+        "explanationText": "Electrons are shared in covalent bonding, but the sharing is not always equal. For example, in a water molecule, the oxygen atom \u201cpulls\u201d a bit harder on the shared electrons than the hydrogen atom. As a result, the hydrogen end of the water molecule becomes slightly positively-charged, while the oxygen end of the water molecule becomes slightly negatively-charged. The positively-charged end of one water molecule can then become weakly attracted to the negatively-charged end of a second water molecule. This weak attraction between two polar molecules is called hydrogen bonding."
+      },
+      {
+        "questionText": "What is cohesion?",
+        "answers": [
+          {
+            "answerText": "Cohesion is the attractive force between a nucleus and its electrons.",
+            "correct": "false"
+          },
+          {
+            "answerText": "Cohesion is the attractive force between a positively-charged atom and a negatively-charged atom, in an ionic bond.",
+            "correct": "false"
+          },
+          {
+            "answerText": "Cohesion is the attractive force between a positively-charged molecule and a negatively-charged molecule.",
+            "correct": "false"
+          },
+          {
+            "answerText": "Cohesion is the attractive force between molecules of a given substance (for example, water).",
+            "correct": "true"
+          }
+        ],
+        "explanationText": "The cohesion of a substance refers to how strongly attracted its molecules are to one another. For example, water is a substance with very high cohesion, because water molecules form hydrogen bonds with one another. Water\u2019s high cohesion explains why water droplets \u201cstick\u201d together, in the phenomenon known as surface tension."
+      },
+      {
+        "questionText": "What is adhesion?",
+        "answers": [
+          {
+            "answerText": "Adhesion is the attractive force between a nucleus and its electrons.",
+            "correct": "false"
+          },
+          {
+            "answerText": "Adhesion is the attractive force between a positively-charged atom and a negatively-charged atom, in an ionic bond.",
+            "correct": "false"
+          },
+          {
+            "answerText": "Adhesion is the attractive force between a positively-charged molecule and a negatively-charged molecule.",
+            "correct": "false"
+          },
+          {
+            "answerText": "Adhesion is the attractive force between molecules of one substance and molecules of a different substance (for example, water and glass).",
+            "correct": "true"
+          }
+        ],
+        "explanationText": "Whereas cohesion describes how strongly molecules of a substance are attracted to one another, adhesion describes how strongly molecules of one substance are attracted to molecules of a second substance. For example, water is strongly adhesive to glass, because water molecules form hydrogen bonds with molecules in glass or plastic. This is why water can \u201cclimb\u201d up the sides of straws and test tubes."
+      },
+      {
+        "questionText": "Because so many compounds can dissolve in water, water is popularly referred to as:",
+        "answers": [
+          { "answerText": "The universal solute.", "correct": "false" },
+          { "answerText": "The universal acid.", "correct": "false" },
+          { "answerText": "The universal solvent.", "correct": "true" },
+          { "answerText": "The universal translator.", "correct": "false" }
+        ],
+        "explanationText": "The solvent is the substance in which the solute dissolves. Because water can dissolve so many different solutes, it serves as an excellent \u201cstage\u201d for chemical reactions to occur between different solutes. This is why it is the most abundant compound in living things. (However, it is not actually a universal solvent -- if it dissolved everything, we wouldn\u2019t be able to keep it in anything!)"
+      },
+      {
+        "questionText": "Which of these is a property of water?",
+        "answers": [
+          {
+            "answerText": "Water is a very stable molecule. It normally doesn\u2019t chemically react with other molecules.",
+            "correct": "false"
+          },
+          {
+            "answerText": "Water\u2019s solid state (ice) is less dense than its liquid state (liquid water). It is one of the few substances that has this property.",
+            "correct": "false"
+          },
+          { "answerText": "Neither A nor B.", "correct": "false" },
+          { "answerText": "Both A and B.", "correct": "true" }
+        ],
+        "explanationText": "Water is very stable. It dissolves many compounds, but doesn\u2019t usually react with them. Again, this makes it a useful substance for living things. Ice floats in water, whereas most substances in solid form would sink when placed in a pool of their liquid form."
+      },
+      {
+        "questionText": "Why is solid water (ice) less dense than liquid water?",
+        "answers": [
+          {
+            "answerText": "Because the hydrogen bonds in ice slow down and lock water molecules in positions relatively far away from one another.",
+            "correct": "true"
+          },
+          {
+            "answerText": "Because ice has a different chemical composition than liquid water.",
+            "correct": "false"
+          },
+          {
+            "answerText": "Because liquid water molecules expand when frozen.",
+            "correct": "false"
+          },
+          { "answerText": "None of the above.", "correct": "false" }
+        ],
+        "explanationText": "Hydrogen bonds form between water molecules. When water is in liquid form, the water molecules are moving fast, and are slowed down only a little by hydrogen bonding. But in ice, the water molecules are moving slow enough that hydrogen bonds can \u201clock\u201d them into a lattice in which they are held a certain distance from one another, without being able to slide close to one another."
+      },
+      {
+        "questionText": "Describe the pH scale.",
+        "answers": [
+          {
+            "answerText": "The pH scale goes from 0 to 14. The lower the pH, the more basic the solution; the higher the pH, the more acidic the solution.",
+            "correct": "false"
+          },
+          {
+            "answerText": "The pH scale goes from 0 to 7. The lower the pH, the more basic the solution; the higher the pH, the more acidic the solution.",
+            "correct": "false"
+          },
+          {
+            "answerText": "The pH scale goes from 0 to 14. The lower the pH, the more acidic the solution; the higher the pH, the more basic the solution.",
+            "correct": "true"
+          },
+          {
+            "answerText": "The pH scale goes from 0 to 7. The lower the pH, the more acidic the solution; the higher the pH, the more basic the solution.",
+            "correct": "false"
+          }
+        ],
+        "explanationText": "Very acidic substances, like the digestive juices in the stomach, have a very low pH. Very basic substances, like sodium hydroxide, have a very high pH. Neutral compounds, like water, have a pH of 7."
+      },
+      {
+        "questionText": "Which of these is an important function of carbohydrates in living creatures?",
+        "answers": [
+          {
+            "answerText": "Carbohydrates are the primary building block in the proteins that form our bones, teeth, and organs.",
+            "correct": "false"
+          },
+          {
+            "answerText": "Carbohydrates are a major fuel source for living creatures, releasing energy when metabolized.",
+            "correct": "true"
+          },
+          {
+            "answerText": "Carbohydrates are the main component of lipids, which form the outer layer of living cells.",
+            "correct": "false"
+          },
+          {
+            "answerText": "Living enzymes use carbohydrates as enzymes, such as to digest food or break down toxins.",
+            "correct": "false"
+          }
+        ],
+        "explanationText": "Many of the molecules important in energy production and energy storage are carbohydrates. For example, every living cell breaks down glucose to produce energy. Starch is a polymer of sugar molecules, and serves as an energy reserve. "
+      },
+      {
+        "questionText": "Which of these is a plausible empirical formula for a simple carbohydrate?",
+        "answers": [
+          { "answerText": "C6H6O12.", "correct": "false" },
+          { "answerText": "C12H13Br2.", "correct": "false" },
+          { "answerText": "H2CO3.", "correct": "false" },
+          { "answerText": "C6H12O6.", "correct": "true" }
+        ],
+        "explanationText": "The definition of a carbohydrate is a molecule consisting of carbon, oxygen, and hydrogen atoms, usually with the hydrogen and oxygen atoms in a 2:1 ratio. The only formula that fits this is D."
+      },
+      {
+        "questionText": "How many atoms make up the main ring in a frustose molecule? ",
+        "answers": [
+          { "answerText": "6", "correct": "false" },
+          { "answerText": "5", "correct": "true" },
+          { "answerText": "15", "correct": "false" },
+          {
+            "answerText": "Fructose doesn't have a main ring",
+            "correct": "false"
+          }
+        ],
+        "explanationText": "Fructose has a five-member ring, with four carbons. Glucose and galactose have six-member rings, with five carbons."
+      },
+      {
+        "questionText": "Which of these monosaccharides have the empirical formula C6H12O6?",
+        "answers": [
+          { "answerText": "Glucose", "correct": "false" },
+          { "answerText": "Galactose and fructose", "correct": "false" },
+          { "answerText": "Fructose and glucose", "correct": "false" },
+          { "answerText": "Glucose, galactose and fructose", "correct": "true" }
+        ],
+        "explanationText": "The formulas of glucose, galactose and fructose are all the same. However, their atoms are arranged differently, giving them unique properties."
+      },
+      {
+        "questionText": "The two monosaccharides that comprise lactose are:",
+        "answers": [
+          { "answerText": "Glucose and glucose", "correct": "false" },
+          { "answerText": "Galactose and fructose", "correct": "false" },
+          { "answerText": "Glucose and galactose", "correct": "true" },
+          { "answerText": "Glucose and sucrose", "correct": "false" }
+        ],
+        "explanationText": "Lactose is a complex sugar found in animals\u2019 milk. It consists of one glucose molecule joined to one galactose molecule."
+      },
+      {
+        "questionText": "The process by which two monosaccharides are bonded together through the removal of a water molecule is called:",
+        "answers": [
+          { "answerText": "Hydrolysis", "correct": "false" },
+          { "answerText": "Dehydration synthesis", "correct": "true" },
+          { "answerText": "Hydrosynthesis", "correct": "false" },
+          { "answerText": "Dehydration decomposition", "correct": "false" }
+        ],
+        "explanationText": "Dehydration synthesis is the chemical process in which two monosaccharides form a chemical bond due to the removal of a water molecule. The opposite process, in which a water molecule is added to break apart a disaccharide into monosaccharides, is called hydrolysis. (Molecules other than sugars can also be combined and split via dehydration synthesis and hydrolysis.)"
+      },
+      {
+        "questionText": "When two amino acids are joined together by dehydration synthesis, the resulting bond is known as a:",
+        "answers": [
+          { "answerText": "Saccharide bond", "correct": "false" },
+          { "answerText": "Phosphodiester bond", "correct": "false" },
+          { "answerText": "Ketonic bond", "correct": "false" },
+          { "answerText": "Peptide bond", "correct": "true" }
+        ],
+        "explanationText": "A peptide bond is a bond between the terminal carbon of one amino acid and the terminal nitrogen of a second amino acid. The resulting molecule is called a dipeptide; if many amino acids are linked, it is called a polypeptide. Since there are many different types of amino acids, joining them together in this way results in a huge variety of different proteins."
+      },
+      {
+        "questionText": "A protein\u2019s primary structure refers to:",
+        "answers": [
+          {
+            "answerText": "The order (i.e. sequence) of amino acids in a polypeptide",
+            "correct": "true"
+          },
+          {
+            "answerText": "The three-dimensional structure of a polypeptide",
+            "correct": "false"
+          },
+          {
+            "answerText": "The first three amino acids of a polypeptide",
+            "correct": "false"
+          },
+          {
+            "answerText": "The first peptide in a polypeptide",
+            "correct": "false"
+          }
+        ],
+        "explanationText": "A protein\u2019s primary structure is the order of its amino acids. An example would be the sequence Serine-Glycine-Glycine-Valine-Alanine-Valine."
+      },
+      {
+        "questionText": "The three-dimensional structure of a protein is held together by:",
+        "answers": [
+          {
+            "answerText": "Hydrogen bonds between atoms in the variable groups of the protein\u2019s amino acids.",
+            "correct": "false"
+          },
+          {
+            "answerText": "Disulfide bridges (S-S) between cysteine molecules in the protein.",
+            "correct": "false"
+          },
+          { "answerText": "Neither of the above.", "correct": "false" },
+          { "answerText": "Both of the above.", "correct": "true" }
+        ],
+        "explanationText": "Both hydrogen bonding and disulfide bridges determine a proatein\u2019s three-dimensional shape."
+      },
+      {
+        "questionText": "The definition of an enzyme is:",
+        "answers": [
+          {
+            "answerText": "An organic, proteinaceous catalyst.",
+            "correct": "true"
+          },
+          {
+            "answerText": "An inorganic, proteinaceous catalyst.",
+            "correct": "false"
+          },
+          {
+            "answerText": "An organic, lipid-based catalyse.",
+            "correct": "false"
+          },
+          { "answerText": "All of the above.", "correct": "false" }
+        ],
+        "explanationText": "An enzyme is organic, because it is made exclusively by living things. It is a protein, because it is made up of amino acids. And it is a catalyst, because its specific purpose is to initiate or speed up a certain chemical reaction."
+      },
+      {
+        "questionText": "The lock-and-key model and the induced-fit model are descriptions of what kind of substance?",
+        "answers": [
+          { "answerText": "Nucleic acids", "correct": "false" },
+          { "answerText": "Enzymes", "correct": "true" },
+          { "answerText": "Lipids", "correct": "false" },
+          { "answerText": "All of the above", "correct": "false" }
+        ],
+        "explanationText": "Both models are descriptions of how enzymes work. Originally, an enzyme\u2019s substrate was thought to fit perfectly into the enzyme\u2019s active site, and thus trigger the reaction. This turned out to be an oversimplification; in reality, when the substrate enters the enzyme\u2019s active site, the enzyme changes it shape slightly to better fit onto the substrate."
+      },
+      {
+        "questionText": "A lipid molecule consists of:",
+        "answers": [
+          {
+            "answerText": "One glycerol molecule and three fatty acid molecules.",
+            "correct": "true"
+          },
+          {
+            "answerText": "Three glycerol molecules and one fatty acid molecule.",
+            "correct": "false"
+          },
+          {
+            "answerText": "One glycerol molecule and three amino acids.",
+            "correct": "false"
+          },
+          { "answerText": "None of the above.", "correct": "false" }
+        ],
+        "explanationText": "In its most basic form, a lipid is a molecule that consists of one glycerol molecule attached to three fatty acid molecules."
+      },
+      {
+        "questionText": "What is the definition of an unsaturated fatty acid?",
+        "answers": [
+          {
+            "answerText": "A fatty acid that has nine or fewer oxygen atoms in its structure.",
+            "correct": "false"
+          },
+          {
+            "answerText": "A fatty acid that lacks a carboxyl group at its end.",
+            "correct": "false"
+          },
+          {
+            "answerText": "A fatty acid that has one or more double bonds or triple bonds in its structure.",
+            "correct": "true"
+          },
+          { "answerText": "None of the above.", "correct": "false" }
+        ],
+        "explanationText": "A saturated fatty acid has only single bonds between its carbon atoms and its hydrogen atoms -- it has the maximum allowable number of hydrogen atoms. An unsaturated fatty acid has one or more double or triple bonds, so it has less than the maximum allowable number of hydrogen atoms. Remember that unsaturated fatty acids tend to have \u201ckinks\u201d in their structures, which prevents unsaturated fatty acid molecules from packing together as tightly. For that reason, unsaturated fatty acids are often liquid at room temperature, while saturated fatty acids are often solid. "
+      },
+      {
+        "questionText": "For what purpose do living organisms use lipids?",
+        "answers": [
+          { "answerText": "As a means of storing energy.", "correct": "false" },
+          {
+            "answerText": "In the form of fat, for cushioning, warming and protecting vital areas of the body.",
+            "correct": "false"
+          },
+          {
+            "answerText": "As a major component of the membranes in cells and cell organelles.",
+            "correct": "false"
+          },
+          { "answerText": "All of the above.", "correct": "true" }
+        ],
+        "explanationText": ""
+      }
+    ]
+  },
+  "mitosis-and-viruses": {
+    "title": "Cell Division and Viruses",
+    "questions": [
+      {
+        "questionText": "Which of these is a way in which plant cell division differs from animal cell division?",
+        "answers": [
+          {
+            "answerText": "In plants, the nuclear envelope dissolves before division begins; in animals, the reverse is true.",
+            "correct": "false"
+          },
+          {
+            "answerText": "In animals, a cell plate forms during telophase to divide the cell in two; in plants, a cell furrow serves this purpose.",
+            "correct": "false"
+          },
+          {
+            "answerText": "In animals, centrioles cause the formation of asters during cell division; in plants, there are no centrioles or asters at all.",
+            "correct": "true"
+          },
+          { "answerText": "None of the above.", "correct": "false" }
+        ],
+        "explanationText": "Centrioles are two tiny cylindrical bodies that participate in the formulation of asters during prophase in animal cells. For the most part, plant cells do not have centrioles or asters. "
+      },
+      {
+        "questionText": "Which of these events occurs during anaphase?",
+        "answers": [
+          {
+            "answerText": "Duplicated chromosomes move towards opposite poles of the cell, guided by microtubules.",
+            "correct": "true"
+          },
+          {
+            "answerText": "The cell\u2019s genetic material condenses into visible chromosomes for the first time.",
+            "correct": "false"
+          },
+          {
+            "answerText": "The cell membrane pinches, forming a furrow in the middle of the cell.",
+            "correct": "false"
+          },
+          {
+            "answerText": "The centromeres of the duplicated chromosomes line up in the middle of the cell.",
+            "correct": "false"
+          }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "In which phase of mitosis do all the chromosomes line up along the midline of the cell?",
+        "answers": [
+          { "answerText": "Interphase", "correct": "false" },
+          { "answerText": "Telophase", "correct": "false" },
+          { "answerText": "Prophase", "correct": "false" },
+          { "answerText": "Metaphase", "correct": "true" }
+        ],
+        "explanationText": "Metaphase is the shortest stage in mitosis, during which all the chromosomes line up along the midline of the cell. At the moment the chromosomes separate into chromatids and begin moving towards opposite ends of the cell, metaphase has ended and anaphase has begun."
+      },
+      {
+        "questionText": "Which of these events does NOT take place during prophase?",
+        "answers": [
+          {
+            "answerText": "The duplicated chromosomes become visible for the first time.",
+            "correct": "false"
+          },
+          {
+            "answerText": "In animal cells, the centrioles move towards opposite ends of the cell, and asters form.",
+            "correct": "false"
+          },
+          {
+            "answerText": "The chromosomes are replicated.",
+            "correct": "true"
+          },
+          {
+            "answerText": "The chromosomes begin to move towards the equator, or the center, of the cell.",
+            "correct": "false"
+          }
+        ],
+        "explanationText": "The cell\u2019s genetic material is replicated during interphase, before mitosis even starts. The other three events listed occur during prophase."
+      },
+      {
+        "questionText": "Which answer best explains why different types of cells look and function differently from one another?",
+        "answers": [
+          {
+            "answerText": "Each type of cell has its own unique set of chromosomes, which direct its form and function.",
+            "correct": "false"
+          },
+          {
+            "answerText": "Though all cells have the same genetic information, different cell types shut off the parts of that information that are not needed for their function.",
+            "correct": "true"
+          },
+          {
+            "answerText": "Each cell randomly determines which genes should be turned on or shut off.",
+            "correct": "false"
+          },
+          { "answerText": "None of the above.", "correct": "false" }
+        ],
+        "explanationText": "Virtually all cells in one organism contain the same genetic information, but different parts of this information are active in different types of cells. For example, although theoretically any cell in your body could manufacture the hormone insulin, only a specific type of cell in the pancreas (\u201cislet cells\u201d) does this. Other types of cells (muscle cells, white blood cells, neurons) silence the part of the genetic code that causes insulin production."
+      },
+      {
+        "questionText": "Which of these is a possible treatment for cancer?",
+        "answers": [
+          {
+            "answerText": "Chemotherapy, the use of medications to kill or slow the growth of cancer cells.",
+            "correct": "false"
+          },
+          {
+            "answerText": "Radiation therapy, the use of radiation to kill or slow the growth of cancer cells.",
+            "correct": "false"
+          },
+          {
+            "answerText": "Surgery, the physical removal of cancer, when feasible.",
+            "correct": "false"
+          },
+          { "answerText": "All of the above.", "correct": "true" }
+        ],
+        "explanationText": "All of these are potential ways to treat cancer, and they are often used in combination. Because each type of cancer (and each person) is to some extent unique, the best treatment option is often different from case to case."
+      },
+      {
+        "questionText": "Which of these events takes place during interphase?",
+        "answers": [
+          {
+            "answerText": "The chromosomes become visible for the first time.",
+            "correct": "false"
+          },
+          {
+            "answerText": "The chromosomes, still unwound and invisible, are duplicated.",
+            "correct": "true"
+          },
+          {
+            "answerText": "The chromosomes, attached to the mitotic spindle, move towards the equator of the cell.",
+            "correct": "false"
+          },
+          {
+            "answerText": "Cytokinesis begins; in animal cells, a furrow appears, while in plant cells, a cell plate appears.",
+            "correct": "false"
+          }
+        ],
+        "explanationText": "Chromosomes are duplicated during interphase. This is an extraordinarily important event, because for each of the two daughter cells to function properly, they must each receive an exactly identical copy of the genetic material in the parent cell."
+      },
+      {
+        "questionText": "A bacteriophage penetrates a host cell, releasing its DNA into the cell\u2019s cytoplasm. The phage\u2019s DNA integrates into the cell\u2019s chromosome (\u201crecombination\u201d). The infected cell survives, but each time it replicates, the integrated phage DNA is replicated as well, ensuring that all of the cell\u2019s offspring contain phage DNA. This process is known as:",
+        "answers": [
+          {
+            "answerText": "The lytic cycle of viral replication.",
+            "correct": "false"
+          },
+          {
+            "answerText": "The lysogenic cycle of viral replication, or lysogeny.",
+            "correct": "true"
+          },
+          {
+            "answerText": "The biosynthetic stage of viral replication.",
+            "correct": "false"
+          },
+          { "answerText": "Viral mitosis.", "correct": "false" }
+        ],
+        "explanationText": "In lytic replication, a virus invades a host cell and hijacks its cellular machinery to produce copies of itself; these copies then destroy the host cell and look for new hosts. In lysogenic replication, a virus invades a host cell, but does not immediately start copying itself; instead, it integrates its genetic material into the genetic material of the host. In this form, the virus is known as a prophage. "
+      },
+      {
+        "questionText": "Which of the following is NOT true of viruses in general?",
+        "answers": [
+          {
+            "answerText": "Viruses can only replicate inside the cells of another living organism.",
+            "correct": "false"
+          },
+          {
+            "answerText": "Viruses are typically much, much smaller than eukaryotic cells and bacteria.",
+            "correct": "false"
+          },
+          {
+            "answerText": "Viruses, at their most basic level, consist of genetic material (DNA or RNA) surrounded by a protein coat.",
+            "correct": "false"
+          },
+          { "answerText": "Viruses are prokaryotes.", "correct": "true" }
+        ],
+        "explanationText": "Viruses are not prokaryotes. They do not possess cellular structure or organelles the way that prokaryotes do, and they cannot reproduce independently. In fact, there is long-standing controversy over whether viruses should even be considering living."
+      }
+    ]
+  },
+  "dna": {
+    "title": "DNA and Protein Synthesis",
+    "questions": [
+      {
+        "questionText": "Fill in the blanks. \u201cAdenine pairs with ____________, and ___________ pairs with guanine.\u201d",
+        "answers": [
+          { "answerText": "Thymine, Cysteine.", "correct": "false" },
+          { "answerText": "Guanine, Cytosine.", "correct": "false" },
+          { "answerText": "Cytosine, Uracil.", "correct": "false" },
+          { "answerText": "Thymine, Cytosine.", "correct": "true" }
+        ],
+        "explanationText": "The nitrogenous bases in DNA have very specific partners, and this specificity is one of DNA\u2019s most important properties. In DNA, adenine will always pair with thymine, and guanine will always pair with cytosine. (In RNA, adenine pairs with uracil rather than thymine). "
+      },
+      {
+        "questionText": "What is the three-dimensional structure of DNA?",
+        "answers": [
+          { "answerText": "A beta-pleated sheet.", "correct": "false" },
+          { "answerText": "A single helix.", "correct": "false" },
+          { "answerText": "A double helix.", "correct": "true" },
+          { "answerText": "A triple helix.", "correct": "false" }
+        ],
+        "explanationText": "DNA assumes a double-helical structure. RNA assumes a single helical structure. The triple helix was an early (and incorrect) model of DNA\u2019s structure proposed by Linus Pauling."
+      },
+      {
+        "questionText": "A biologist analyzes the chemical composition of DNA within a human lymphocyte cell, measuring the percentage of each nitrogenous base. Which of the following would be a plausible result, consistent with Chargaff\u2019s rules?",
+        "answers": [
+          {
+            "answerText": "36% adenine, 14% guanine, 30% cytosine, 20% thymine",
+            "correct": "false"
+          },
+          {
+            "answerText": "30% adenine, 30% guanine, 20% cytosine, 20% thymine",
+            "correct": "false"
+          },
+          {
+            "answerText": "32% adenine, 24% guanine, 24% cytosine, 32% thymine",
+            "correct": "true"
+          },
+          {
+            "answerText": "36% adenine, 14% guanine, 30% cytosine, 20% thymine",
+            "correct": "false"
+          }
+        ],
+        "explanationText": "In the early 20th century, Edwin Chargaff found that in DNA, the percentage of adenine will always equal the percentage of thymine, and the percentage of guanine will always equal the percentage of cytosine. Now that we know DNA\u2019s structure, we know why Chargaff\u2019s rule is true: Adenine and thymine must pair with one another, and nothing else; guanine and cytosine must pair with one another, and nothing else."
+      },
+      {
+        "questionText": "What crucial piece of evidence, found by chemist Rosalind Franklin, was used by biologists James Watson and Francis Crick to determine the three-dimensional structure of DNA?",
+        "answers": [
+          { "answerText": "X-ray diffraction images.", "correct": "true" },
+          {
+            "answerText": "Pneumococcus experiments with S and R strains.",
+            "correct": "false"
+          },
+          {
+            "answerText": "Discovery of the presence of deoxyribose in DNA.",
+            "correct": "false"
+          },
+          {
+            "answerText": "Discovery of the function of DNA topoisomerase.",
+            "correct": "false"
+          }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "Alfred Hershey and Martha Chase devised an experiment to provide DNA (rather than protein) was the genetic material used in living organisms. They took one sample of bacteriophages and radioactively tagged their viral protein capsids, then allowed them to infect a culture of host bacteria. In a second sample of bacteriophages they radioactively tagged the viral DNA, then infected a separate culture of host bacteria. The host bacteria were then broken open, and their cytoplasms tested for radioactivity. Describe what the scientists found in this experiment.",
+        "answers": [
+          {
+            "answerText": "The bacteria that were exposed to phages with radioactive protein capsids had very little radioactivity in their cytoplasm. The bacteria that were exposed to phages with radioactive DNA had high radioactivity in their cytoplasm.",
+            "correct": "true"
+          },
+          {
+            "answerText": "The bacteria that were exposed to phages with radioactive protein capsids had high radioactivity in their cytoplasm. The bacteria that were exposed to phages with radioactive DNA had very little radioactivity in their cytoplasm.",
+            "correct": "false"
+          },
+          {
+            "answerText": "Both the bacteria that were exposed to phages with radioactive protein capsids AND the bacteria that were exposed to phages with radioactive DNA showed high radioactivity in their cytoplasm.",
+            "correct": "false"
+          },
+          {
+            "answerText": "Neither the bacteria that were exposed to phages with radioactive protein capsids NOR the bacteria that were exposed to phages with radioactive DNA showed any significant radioactivity in their cytoplasm.",
+            "correct": "false"
+          }
+        ],
+        "explanationText": "The scientists knew that viruses need to inject their genetic material into their host cell in order to replicate. Their experiment showed that viral protein remains outside the host cell, while viral DNA enters the host cell, implying that genetic material is DNA and not protein."
+      },
+      {
+        "questionText": "What type of bond keeps adenine and thymine joined?",
+        "answers": [
+          { "answerText": "Covalent Bond", "correct": "false" },
+          { "answerText": "Hydrogen Bond", "correct": "true" },
+          { "answerText": "Ionic Bond", "correct": "false" },
+          { "answerText": "Van der Waal\u2019s forces", "correct": "false" }
+        ],
+        "explanationText": "Hydrogen bonds hold the nitrogenous bases together. This may surprise you since hydrogen bonds are weak. However, remember that DNA must be able to unzip to replicate itself and to construct mRNA. These processes happen virtually every second, so covalent and ionic bonds would be too difficult and energy intensive to break."
+      },
+      {
+        "questionText": "One strand of DNA reads as follows, in ATCG notation: ATTAGCGAGT. Discounting any possibility of genetic error, what would the complementary strand of DNA read as?",
+        "answers": [
+          { "answerText": "TAATGCGTAG", "correct": "false" },
+          { "answerText": "UAAUCGCUCA", "correct": "false" },
+          { "answerText": "ATTAGCGAGT", "correct": "false" },
+          { "answerText": "TAATCGCTCA", "correct": "true" }
+        ],
+        "explanationText": "The two strands of DNA are correctly paired because every T matches an A and every G matches a C on the other strand."
+      },
+      {
+        "questionText": "Which best describes the way in which DNA controls everything about the cell?",
+        "answers": [
+          {
+            "answerText": "DNA directs the construction of every single protein made in the cell",
+            "correct": "true"
+          },
+          {
+            "answerText": "DNA is physically a part of every protein in the cell, and controls its shape and movement",
+            "correct": "false"
+          },
+          {
+            "answerText": "DNA has enzymatic properties that allow it to change enzymes\u2019 shape, thus changing the way they function",
+            "correct": "false"
+          },
+          { "answerText": "All of the above ", "correct": "false" }
+        ],
+        "explanationText": "According to the One Gene One Polypeptide hypothesis, each gene directs the production of a particular protein chain. All polypeptides in a cell have thus been products of protein synthesis involving DNA\u2019s precise instructions."
+      },
+      {
+        "questionText": "The following are steps in DNA replication. Put them in order. -Hydrogen bonds form between the nitrogenous bases. -Hydrogen bonds between the nitrogenous bases are opened and the DNA molecule unwinds. -Since one particular nucleotide can only bond to another, each DNA strand serves as a template to which new, free nucleotides in the cell nucleus attach.",
+        "answers": [
+          { "answerText": "1, 3, 2", "correct": "false" },
+          { "answerText": "3, 2, 1", "correct": "false" },
+          { "answerText": "2, 3, 1", "correct": "true" },
+          { "answerText": "3, 1, 2", "correct": "false" }
+        ],
+        "explanationText": "The DNA molecule unwinds as its hydrogen bonds are broken. The two strands separate, and each fasten onto free nucleotides floating in the nucleus of the cell. They then rewind. Two molecules of DNA, each of which with one template strand from the original molecule of DNA, are leftover, unless a mistake has been made."
+      },
+      {
+        "questionText": "RNA is very similar to DNA but contains several key differences. Which of these is such a difference?",
+        "answers": [
+          {
+            "answerText": "RNA utilizes Uracil in place of Thymine",
+            "correct": "false"
+          },
+          {
+            "answerText": "RNA is single stranded, while DNA is double stranded ",
+            "correct": "false"
+          },
+          {
+            "answerText": "RNA\u2019s sugar group in ribose, not deoxyribose",
+            "correct": "false"
+          },
+          { "answerText": "All of the above", "correct": "true" }
+        ],
+        "explanationText": "RNA is single stranded. RNA uses Uracil instead of Thymine. The difference between ribose and deoxyribose is small. Deoxyribose, as its name suggests, lacks an oxygen that ribose has."
+      }
+    ]
+  },
+  "physiology": {
+    "title": "Physiology",
+    "questions": [
+      {
+        "questionText": "We're going to follow how a signal is transmitted through the nervous system. A signal is transmitted along a series of neurons by a combination of changes in membrane permeability and the release action of vesicles. The nature of a nervous system message is therefore ______________.",
+        "answers": [
+          { "answerText": "Electric", "correct": "false" },
+          { "answerText": "Chemical", "correct": "false" },
+          { "answerText": "Electrochemical", "correct": "true" },
+          { "answerText": "None of the Above.", "correct": "false" }
+        ],
+        "explanationText": "A signal is transmitted along a series of neurons by a combination of changes in membrane permeability, influx and efflux of ions, and the release action of vesicles. The nature of a nervous system message is therefore electrochemical."
+      },
+      {
+        "questionText": "The electrical impulse is first received in the neuron's ____ and then transmitted down its _____",
+        "answers": [
+          { "answerText": "Dendrites, Axon", "correct": "true" },
+          { "answerText": "Axon, Dendrites", "correct": "false" },
+          { "answerText": "Axon, Cell Body", "correct": "false" },
+          { "answerText": "Dendrities, Nucleus", "correct": "false" }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "The electrical impulse then stimulates vesicles at the terminal branches of the axon, known as _____, to release their contents, which are known as _____",
+        "answers": [
+          { "answerText": "Cell Body, Nucleus", "correct": "false" },
+          {
+            "answerText": "Synaptic vesicles, Neurotransmitters",
+            "correct": "true"
+          },
+          { "answerText": "Neurotransmitters, Axon", "correct": "false" },
+          {
+            "answerText": "Synaptic vesicles, Vesicetic synapses",
+            "correct": "false"
+          }
+        ],
+        "explanationText": "The neurotransmitters diffuses across the gap between the axon of the sending neuron and the dendrites of the receiving neuron, which is known as a synapse. The neurotransmitter binds to protein receptors on the membrane of the next neuron's dendrites and causes the creation of another electric impulse."
+      },
+      {
+        "questionText": "Tetanus toxin is possibly the most deadly microbial poison known. It is produced by C. tetani, the bacterium that causes lockjaw. As you may know, victims of lockjaw cannot relax their muscles, resulting in continuous muscle contractions.  As it turns out, tetanus toxin messes with the nervous system.If you were told that tetanus toxin inhibited an inhibitory neurotransmitter, what part of the neuron do you think the toxin would strike?",
+        "answers": [
+          { "answerText": "Cell Body / The Neuron itself", "correct": "false" },
+          { "answerText": "Axon and the Axonal Hillock", "correct": "false" },
+          { "answerText": "The Synapse", "correct": "true" },
+          { "answerText": "Not enough information.", "correct": "false" }
+        ],
+        "explanationText": "Many drugs, in addition to microbial toxins such as tetanospasmodin, produce their familiar effects on the nervous system by acting at the synapse."
+      },
+      {
+        "questionText": "The Spinal Cord is part of the ________________________.",
+        "answers": [
+          { "answerText": "Peripheral Nervous System", "correct": "false" },
+          { "answerText": "Central Nervous System.", "correct": "true" },
+          { "answerText": "Confident Nervous System", "correct": "false" },
+          { "answerText": "Preperatory Nervous System", "correct": "false" }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "Somatic Neurons innervate ______ muscles, and are a part of the ____",
+        "answers": [
+          { "answerText": "Voluntary, CNS", "correct": "false" },
+          { "answerText": "Involuntary, CNS", "correct": "false" },
+          { "answerText": "Voluntary, PNS", "correct": "true" },
+          { "answerText": "Involuntary, PNS", "correct": "false" }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "Autonomic Neurons innervate ____ muscles and glands, and are a part of the _____",
+        "answers": [
+          { "answerText": "Voluntary, CNS", "correct": "false" },
+          { "answerText": "Involuntary, CNS", "correct": "false" },
+          { "answerText": "Voluntary, PNS", "correct": "false" },
+          { "answerText": "Involuntary, PNS", "correct": "true" }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "Sensory Neurons receive data from the sensory organs and are a part of the _____",
+        "answers": [
+          { "answerText": "CNS", "correct": "false" },
+          { "answerText": "PNS", "correct": "true" }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "The Brain is part of the _____",
+        "answers": [
+          { "answerText": "CNS", "correct": "true" },
+          { "answerText": "PNS", "correct": "false" }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "The ____________ is responsible for maintaining heart rate.",
+        "answers": [
+          { "answerText": "Thalamus", "correct": "false" },
+          { "answerText": "Cerebrum", "correct": "false" },
+          { "answerText": "Cerebellum", "correct": "false" },
+          { "answerText": "Medulla Oblongata", "correct": "true" }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "Insulin and glucagon are both hormones that affect blood sugar levels and sugar utilization facilities in cells, and are produced in the endocrine gland known as the ________________.",
+        "answers": [
+          { "answerText": "Liver", "correct": "false" },
+          { "answerText": "Spleen", "correct": "false" },
+          { "answerText": "Exocrine Gland", "correct": "false" },
+          { "answerText": "Pancreas", "correct": "true" }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "One of the ways that the liver maintains homeostasis is by storing and breaking down excess amino acids. The two byproducts are pyruvic acid and ________.  The latter of the two byproducts is _____________________________________.",
+        "answers": [
+          {
+            "answerText": "Urea, excreted from the kidney after being transported through the blood",
+            "correct": "false"
+          },
+          {
+            "answerText": "Ammonia, excreted from the kidney after being transported in the blood",
+            "correct": "false"
+          },
+          {
+            "answerText": "Urea, excreted from the kidney after being converted to ammonia",
+            "correct": "false"
+          },
+          {
+            "answerText": "Ammonia, excreted from the kidney after being converted to urea",
+            "correct": "true"
+          }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "One day you decide to take an hour-long jog.  In terms of blood sugar level, how would your liver compensate for any physiological changes?",
+        "answers": [
+          { "answerText": "Converts Glucose -> Glycogen", "correct": "false" },
+          {
+            "answerText": "Converts Amino Acids -> Glycogen",
+            "correct": "false"
+          },
+          { "answerText": "Converts Glycogen -> Glucose", "correct": "true" },
+          { "answerText": "Converts Fats -> Glycogen", "correct": "false" }
+        ],
+        "explanationText": "Exercise would deplete blood sugar levels, so the liver would convert glycogen into glucose."
+      },
+      {
+        "questionText": "What if you ate a meal?  How would it compensate then?",
+        "answers": [
+          {
+            "answerText": "Converts Glucose -> Fatty Acids",
+            "correct": "false"
+          },
+          { "answerText": "Converts Glucose -> Glycogen", "correct": "true" },
+          { "answerText": "Converts Glycogen -> Fats", "correct": "false" },
+          { "answerText": "Converst Glycogen -> Glucose", "correct": "false" }
+        ],
+        "explanationText": "Eating a meal would elevate blood sugar levels, so the liver would convert that glucose into glycogen."
+      },
+      {
+        "questionText": "You take a deep, deep breath.  Air rushes through your nasal passages and your nose and enters the ___________, first.",
+        "answers": [
+          { "answerText": "Pharynx", "correct": "true" },
+          { "answerText": "Esophagus", "correct": "false" },
+          { "answerText": "Trachea", "correct": "false" },
+          { "answerText": "Lungs", "correct": "false" }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "Air passes by a flap of tissue designed to cover the trachea when swallowing, known as the _____________.  The trachea, or windpipe, cannot be allowed to collapse; animals have therefore evolved _______________ that surround it.",
+        "answers": [
+          {
+            "answerText": "Esophagus, Ciliated mucous membranes",
+            "correct": "false"
+          },
+          {
+            "answerText": "Glottis, Ciliated mucous membranes",
+            "correct": "false"
+          },
+          { "answerText": "Epiglottis, Rings of cartilage", "correct": "true" },
+          { "answerText": "Paraglottis, Rings of bone", "correct": "false" }
+        ],
+        "explanationText": ""
+      }
+    ]
+  },
+  "evolution": {
+    "title": "Evolution, Reproduction, and Plants",
+    "questions": [
+      {
+        "questionText": "Which of these experiments' results would most directly refute Lamarck's theory of evolution?",
+        "answers": [
+          {
+            "answerText": "When a mouse's tail is cut off, its offspring possess tails of normal length.",
+            "correct": "true"
+          },
+          {
+            "answerText": "A talented blacksmith's son seems to naturally take to his father's job.",
+            "correct": "false"
+          },
+          {
+            "answerText": "When a mother osprey's wing is broken, the young she bears cannot fly.",
+            "correct": "false"
+          },
+          {
+            "answerText": "All of the above refute Lamarck's theory of evolution.",
+            "correct": "false"
+          }
+        ],
+        "explanationText": "Lamarck stated that characteristics acquired physically - such as losing one's tail - are transmitted to one's offspring.  This forms the basis of his theory.  This result provides evidence against that claim."
+      },
+      {
+        "questionText": "Natural selection is the process by which individuals possessing the adaptations that best equip them to thrive in a given environment are allowed to survive and reproduce. The agent that selects those individuals, then, is",
+        "answers": [
+          { "answerText": "The environment", "correct": "true" },
+          { "answerText": "The predators", "correct": "false" },
+          { "answerText": "Time", "correct": "false" },
+          { "answerText": "None of the above", "correct": "false" }
+        ],
+        "explanationText": "Correct.  The environment is the agent of natural selection."
+      },
+      {
+        "questionText": "Several members of a bird species from the mainland were able, during exceptionally fortunate winds, to land on and colonize an offshore island. This founder group of birds survived and reproduced. Since then, wing conditions have not allowed birds from either group to move from one landmass to the other. Which of these conditions would suggest that these groups can now be considered separate species?",
+        "answers": [
+          {
+            "answerText": "An island bird will no longer recognize the calling pattern of a mainland bird ",
+            "correct": "false"
+          },
+          {
+            "answerText": "An island bird female will no longer respond to a mainland bird male's courtship.",
+            "correct": "false"
+          },
+          {
+            "answerText": "The offspring of an island bird and a mainland bird pair will be sterile.",
+            "correct": "false"
+          },
+          {
+            "answerText": "All of the above are grounds for declaring the two separate species.",
+            "correct": "true"
+          }
+        ],
+        "explanationText": "All three conditions -- individuals not recognizing mating calls or patterns, and giving birth to sterile offspring -- can be used to assert that the two groups are separate species."
+      },
+      {
+        "questionText": "The random nature of variation is what introduces beneficial and harmful adaptations to the environment in individuals.  In modern times, we have learned that this variation comes from",
+        "answers": [
+          {
+            "answerText": "In metaphase I of meiosis, the random arrangement of chromosomes at the midline.",
+            "correct": "false"
+          },
+          {
+            "answerText": "In prophase I of meiosis, the exchange of genes between different chromosomes.",
+            "correct": "false"
+          },
+          { "answerText": "In sex cells, mutations.", "correct": "false" },
+          { "answerText": "All of the above.", "correct": "true" }
+        ],
+        "explanationText": "Variation comes from all three sources -- the random line up of chromosomes in metaphase, crossing-over during synapsis, and mutations."
+      },
+      {
+        "questionText": "Ultraviolet radiation causes a deletion of a codon in the DNA sequence of a skin cell in a chimpanzee. The protein coded for by this gene is produced abnormally.  Luckily, the loss is not life-threatening, and the chimpanzee reproduces.  Will its offspring also have this mutation? ",
+        "answers": [
+          { "answerText": "Yes", "correct": "false" },
+          { "answerText": "No", "correct": "true" },
+          {
+            "answerText": "Not enough information to tell.",
+            "correct": "false"
+          },
+          { "answerText": "Answer: 2", "correct": "false" }
+        ],
+        "explanationText": "No, its offspring will not.  Remember that offspring come from the union of two sex cells. The mutation here occurred in a somatic cell, not a sex cell. Therefore, the mutation is not transmitted, and the offspring will produce normal copies of the protein."
+      },
+      {
+        "questionText": "In only forty years, certain strains of Staphylococcus aureus have become immune or resistant to at least thirty antibiotics.  This is because",
+        "answers": [
+          {
+            "answerText": "Staph detect the threat of new antibiotics and respond by developing resistance; e.g. making penicillinases",
+            "correct": "false"
+          },
+          {
+            "answerText": "Staph that happen to have random variations that protect them from antibiotics are selected for and reproduce until they comprise the entire population.",
+            "correct": "true"
+          },
+          { "answerText": "Answer: 2", "correct": "false" },
+          {
+            "answerText": "Explanation: Organisms do not consciously devise adaptations in order to survive. Rather, they happen to have such adaptations as a result of random variation.  If they have a needed variation, they will survive and replace those who have died because they do not have the said variation.",
+            "correct": "false"
+          }
+        ],
+        "explanationText": "Organisms do not consciously devise adaptations in order to survive. Rather, they happen to have such adaptations as a result of random variation.  If they have a needed variation, they will survive and replace those who have died because they do not have the said variation."
+      },
+      {
+        "questionText": "In the human gastrointestinal tract, the vast majority of microorganisms are Enterococcus noneximus, and are harmless.  There is also a small population of Shingella fisteri, whose population is kept in check only by the competition for nutrients and space with Enterococcus. A patient takes ampicillin for an unrelated infection, an antibiotic that kills enterococcus but not shingella. The patient",
+        "answers": [
+          {
+            "answerText": "May develop signs of severe gastrointestinal infection caused by shingella",
+            "correct": "true"
+          },
+          {
+            "answerText": "May develop signs of severe gastrointestinal infection caused by enteroc.",
+            "correct": "false"
+          },
+          {
+            "answerText": "Should recover fully, and without any side effects.",
+            "correct": "false"
+          },
+          { "answerText": "None of the above.", "correct": "false" }
+        ],
+        "explanationText": "With the antibiotic added, bacteria that are immune to its effects are selected for. Shingella survives and enterococcus does not. With enterococcus out of the way, nothing is there to stop shingella from taking over its open niche and causing illness."
+      },
+      {
+        "questionText": "Examples of homologous structures in animals today would be ",
+        "answers": [
+          { "answerText": "LOST ANSWER", "correct": "false" },
+          {
+            "answerText": "The wings of a bird and a bat.",
+            "correct": "false"
+          },
+          {
+            "answerText": "The flipper of a whale and the arm of a human.",
+            "correct": "true"
+          },
+          { "answerText": "All of the above are examples.", "correct": "false" }
+        ],
+        "explanationText": "The flipper of a whale and the arm of a human may look very different, because they have been adapted for very different functions. However, their origin is a common one, and this can be seen by inspecting the structure and placement of the arm bones. The others are analogous -- they share the same function and appearance but have come about differently."
+      },
+      {
+        "questionText": "Would you expect a human to be evolutionarily closer to a chimpanzee or a fish?",
+        "answers": [
+          {
+            "answerText": "Would you expect a human embryo to look more ",
+            "correct": "false"
+          },
+          {
+            "answerText": "similar to a chimpanzee embryo or a fish embryo?",
+            "correct": "true"
+          },
+          { "answerText": "Chimpanzee.", "correct": "false" },
+          { "answerText": "Fish.", "correct": "false" }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "The Cambrian explosion was a period of history in which, for unknown reasons, an enormous amount of evolutionary change took place. The presence of such explosions lends credence to",
+        "answers": [
+          {
+            "answerText": "The theory of transmuational ecology",
+            "correct": "false"
+          },
+          {
+            "answerText": "The theory of punctuated equilibrium.",
+            "correct": "true"
+          },
+          { "answerText": "The theory of gradualism.", "correct": "false" },
+          {
+            "answerText": "The theory of convergent speciation.",
+            "correct": "false"
+          }
+        ],
+        "explanationText": "The theory of punctuated equilibrium asserts that evolutionary change takes place in spurts, caused by major ecological events, followed by long periods of little change."
+      },
+      {
+        "questionText": "Disruptions in the orbit of the Earth seventy thousand years from now will cause another major ice age.  A species has the best chance of avoiding extinction if",
+        "answers": [
+          {
+            "answerText": "Its population is about 10,000.",
+            "correct": "false"
+          },
+          {
+            "answerText": "Its population is about 100,000.",
+            "correct": "false"
+          },
+          {
+            "answerText": "Its population is about 1,000,000.",
+            "correct": "false"
+          },
+          {
+            "answerText": "Its population is about 1,000,000,000.",
+            "correct": "true"
+          }
+        ],
+        "explanationText": "The larger a population, the greater a chance it has of having individuals with the variations needed to survive and reproduce in this dramatically changed environment.  The largest number listed here is one billion. "
+      },
+      {
+        "questionText": "Twenty-one days into the menstrual cycle, the uterus' lining is rich with blood vessels and extremely thick.  If an egg is fertilized and implants successfully into the wall, hormones are released to ",
+        "answers": [
+          {
+            "answerText": "Prevent further genetic mutation in the embryo",
+            "correct": "false"
+          },
+          {
+            "answerText": "Prevent the lining of the uterus from breaking down",
+            "correct": "true"
+          },
+          {
+            "answerText": "Expedite the breaking down of the uterus lining",
+            "correct": "false"
+          },
+          { "answerText": "None of the Above", "correct": "false" }
+        ],
+        "explanationText": "Normally, no egg is fertilized.  The lining, no longer needed, is destroyed and eliminated via menstruation.  However, when an egg is fertilized, the lining will be needed to support the growing embryo. Hence, hormones are released to prevent that breakdown."
+      },
+      {
+        "questionText": "Since the gastrula has cells of three distinct types--endoderm, mesoderm, and ectoderm--its cells are said to be ",
+        "answers": [
+          { "answerText": "Combobulated", "correct": "false" },
+          { "answerText": "Varied", "correct": "false" },
+          { "answerText": "Circumlocuted", "correct": "false" },
+          { "answerText": "Differentiated", "correct": "true" }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "This structure cushions the embryo and fetus and provides a sterile environment for their development during gestation.",
+        "answers": [
+          { "answerText": "Amniotic sac", "correct": "true" },
+          { "answerText": "Placenta", "correct": "false" },
+          { "answerText": "Umbilical Cord", "correct": "false" },
+          { "answerText": "Allantoid", "correct": "false" }
+        ],
+        "explanationText": "The amniotic sac serves the above functions. You should remember that amniocentesis is the process of extracting fluid from this sac, to gain access to the genetic makeup of the embryo."
+      },
+      {
+        "questionText": "Photosynthesis",
+        "answers": [
+          {
+            "answerText": "Converts CO2 and H20 into sugar, O2, and H20, by harnessing light energy.",
+            "correct": "true"
+          },
+          {
+            "answerText": "Converts sugar, O2, and H20 into CO2 and H20, by harnessing light energy.",
+            "correct": "false"
+          },
+          {
+            "answerText": "Releases light energy by converting CO2 and H20 into sugar, O2, and H20.",
+            "correct": "false"
+          },
+          {
+            "answerText": "Releases light energy by converting sugar, O2, and H20 into CO2 and H20.",
+            "correct": "false"
+          }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "Plants carry out only photosynthesis.",
+        "answers": [
+          { "answerText": "True", "correct": "false" },
+          { "answerText": "False", "correct": "true" },
+          { "answerText": "Answer: 2", "correct": "false" },
+          {
+            "answerText": "Explanation: Many people think that plants only carry out photosynthesis. Not true. Photosynthesis merely stores the energy the plants need; plants must use respiration to use that energy. ",
+            "correct": "false"
+          }
+        ],
+        "explanationText": "Many people think that plants only carry out photosynthesis. Not true. Photosynthesis merely stores the energy the plants need; plants must use respiration to use that energy. "
+      },
+      {
+        "questionText": "The epidermis is the topmost layer of the leaf.",
+        "answers": [
+          { "answerText": "True", "correct": "true" },
+          { "answerText": "False", "correct": "false" }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "The epidermis is the site of most photosynthesis.",
+        "answers": [
+          { "answerText": "True", "correct": "false" },
+          { "answerText": "False", "correct": "true" }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "The mesophyll is the site of most photosynthesis.",
+        "answers": [
+          { "answerText": "True", "correct": "true" },
+          { "answerText": "False", "correct": "false" }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "The stomates are located in the mesophyll.",
+        "answers": [
+          { "answerText": "True", "correct": "false" },
+          { "answerText": "False", "correct": "true" }
+        ],
+        "explanationText": ""
+      },
+      {
+        "questionText": "A leaf is exposed to sunlight.  Carbon dioxide ____ and oxygen ____ through the stomates.",
+        "answers": [
+          { "answerText": "Exits, Exits", "correct": "false" },
+          { "answerText": "Exits, Enters", "correct": "false" },
+          { "answerText": "Enters, Enters", "correct": "false" },
+          { "answerText": "Enters, Exits", "correct": "true" }
+        ],
+        "explanationText": ""
+      }
+    ]
+  }
+}

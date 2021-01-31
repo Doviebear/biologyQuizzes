@@ -12,7 +12,7 @@ function Quiz() {
   let { id } = useParams();
 
   useEffect(() => {
-    const allQuizData = require("./data/quizzes.json");
+    const allQuizData = require("./data/quizData.json");
     const myQuizData = allQuizData[id];
     setQuizJson(myQuizData);
     console.log("updated Quiz Json, it is now: ");
