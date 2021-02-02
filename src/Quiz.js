@@ -75,7 +75,11 @@ function Quiz() {
   var EndScreen = () => {
     return (
       <div className="explanationWrapper">
-        <h3 className="explanationText">Boo!</h3>
+        <h3 className="explanationText">
+          Congrats! You did it! A whole quiz, that must be really tough. You
+          deserve a pat on your back, I'm impressed. Good Luck on your test and
+          say hi to Ms. Brandriss for me!
+        </h3>
         <Link to="/" className="buttonText" id="endScreenButton">
           Go Back to Quizzes
         </Link>
@@ -88,7 +92,11 @@ function Quiz() {
     console.log(e.target.value);
     if (e.target.value === "true") {
       console.log("Found the right answer");
-      setShowQuestion(false);
+      if (currentQuestion.explanationText === "") {
+        explanationButtonPressed();
+      } else {
+        setShowQuestion(false);
+      }
     } else {
       e.target.style.color = "#eb4460";
     }
@@ -122,9 +130,9 @@ function Quiz() {
         </Link>
 
         <h1 className="headerTitle">Biology Quizzes</h1>
-        <h2 className="buttonText" id="helpButton">
+        <Link to="/help" className="buttonText" id="helpButton">
           ?
-        </h2>
+        </Link>
       </div>
       {showQuiz ? <QuizPage /> : <EndScreen />}
     </div>

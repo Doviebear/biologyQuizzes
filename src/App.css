@@ -60,6 +60,10 @@ a {
   align-self: center;
   font-size: 24px;
   font-weight: 700;
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
 }
 
 .buttonArray {
@@ -107,8 +111,8 @@ a {
   align-self: center;
   font-family: "IBM Plex Serif";
   font-weight: 500;
-  font-size: 48px;
-  padding-top: 5vh;
+  font-size: 36px;
+  padding: 5vh 50px 0px 50px;
 }
 
 .answerArray {
@@ -124,6 +128,7 @@ a {
   color: var(--clickableText);
   font-family: "IBM Plex Sans";
   font-size: 24px;
+  padding: 0px 50px 0px 50px;
 }
 
 .answerButton:hover {
@@ -142,8 +147,8 @@ a {
   text-align: center;
   font-family: "IBM Plex Serif";
   font-weight: 500;
-  font-size: 48px;
-  padding-top: 7.5vh;
+  font-size: 36px;
+  padding: 7.5vh 50px 0px 50px;
 }
 
 #explanationButton {
@@ -159,4 +164,13 @@ a {
   border: none;
   padding-top: 5vh;
   text-align: center;
+}
+
+.helpText {
+  color: var(--textColor);
+  text-align: center;
+  font-family: "IBM Plex Serif";
+  font-weight: 500;
+  font-size: 36px;
+  padding: 3vh 50px 0px 50px;
 }

@@ -6,16 +6,16 @@ import biochemistry_icon from "./img/menu/biochemistry_icon.png";
 import virus_icon from "./img/menu/virus_icon.png";
 import dna_icon from "./img/menu/dna_icon.png";
 import physiology_icon from "./img/menu/physiology_icon.png";
-import evolution_icon from "./img/menu/evolution_icon.jpg";
+import evolution_icon from "./img/menu/evolution_icon.png";
 
 function Home() {
   return (
     <div className="main">
       <div className="header">
         <h1 className="headerTitle">Biology Quizzes</h1>
-        <h2 className="buttonText" id="helpButton">
+        <Link to="/help" className="buttonText" id="helpButton">
           ?
-        </h2>
+        </Link>
       </div>
       <div className="buttonArray">
         <Link to="quiz/cell" className="menuButtonWrapper">
