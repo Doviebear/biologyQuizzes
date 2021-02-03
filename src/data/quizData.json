@@ -821,7 +821,7 @@
         "explanationText": ""
       },
       {
-        "questionText": "Alfred Hershey and Martha Chase devised an experiment to provide DNA (rather than protein) was the genetic material used in living organisms. They took one sample of bacteriophages and radioactively tagged their viral protein capsids, then allowed them to infect a culture of host bacteria. In a second sample of bacteriophages they radioactively tagged the viral DNA, then infected a separate culture of host bacteria. The host bacteria were then broken open, and their cytoplasms tested for radioactivity. Describe what the scientists found in this experiment.",
+        "questionText": "In an experiment, one sample of bacteriophages have their viral protein capsids radioactively tagged, then allowed to infect a culture of host bacteria. A second sample of bacteriophages the viral DNA was radioactively tagged, then allowed to infected a separate culture of host bacteria. The host bacteria were then broken open, and their cytoplasms tested for radioactivity. Describe the findings of this experiment.",
         "answers": [
           {
             "answerText": "The bacteria that were exposed to phages with radioactive protein capsids had very little radioactivity in their cytoplasm. The bacteria that were exposed to phages with radioactive DNA had high radioactivity in their cytoplasm.",
@@ -1180,12 +1180,7 @@
         "questionText": "Ultraviolet radiation causes a deletion of a codon in the DNA sequence of a skin cell in a chimpanzee. The protein coded for by this gene is produced abnormally.  Luckily, the loss is not life-threatening, and the chimpanzee reproduces.  Will its offspring also have this mutation? ",
         "answers": [
           { "answerText": "Yes", "correct": "false" },
-          { "answerText": "No", "correct": "true" },
-          {
-            "answerText": "Not enough information to tell.",
-            "correct": "false"
-          },
-          { "answerText": "Answer: 2", "correct": "false" }
+          { "answerText": "No", "correct": "true" }
         ],
         "explanationText": "No, its offspring will not.  Remember that offspring come from the union of two sex cells. The mutation here occurred in a somatic cell, not a sex cell. Therefore, the mutation is not transmitted, and the offspring will produce normal copies of the protein."
       },
@@ -1199,11 +1194,6 @@
           {
             "answerText": "Staph that happen to have random variations that protect them from antibiotics are selected for and reproduce until they comprise the entire population.",
             "correct": "true"
-          },
-          { "answerText": "Answer: 2", "correct": "false" },
-          {
-            "answerText": "Explanation: Organisms do not consciously devise adaptations in order to survive. Rather, they happen to have such adaptations as a result of random variation.  If they have a needed variation, they will survive and replace those who have died because they do not have the said variation.",
-            "correct": "false"
           }
         ],
         "explanationText": "Organisms do not consciously devise adaptations in order to survive. Rather, they happen to have such adaptations as a result of random variation.  If they have a needed variation, they will survive and replace those who have died because they do not have the said variation."
@@ -1230,7 +1220,10 @@
       {
         "questionText": "Examples of homologous structures in animals today would be ",
         "answers": [
-          { "answerText": "LOST ANSWER", "correct": "false" },
+          {
+            "answerText": "The scales of a dragon and the fire breathing of another dragon",
+            "correct": "false"
+          },
           {
             "answerText": "The wings of a bird and a bat.",
             "correct": "false"
@@ -1365,12 +1358,7 @@
         "questionText": "Plants carry out only photosynthesis.",
         "answers": [
           { "answerText": "True", "correct": "false" },
-          { "answerText": "False", "correct": "true" },
-          { "answerText": "Answer: 2", "correct": "false" },
-          {
-            "answerText": "Explanation: Many people think that plants only carry out photosynthesis. Not true. Photosynthesis merely stores the energy the plants need; plants must use respiration to use that energy. ",
-            "correct": "false"
-          }
+          { "answerText": "False", "correct": "true" }
         ],
         "explanationText": "Many people think that plants only carry out photosynthesis. Not true. Photosynthesis merely stores the energy the plants need; plants must use respiration to use that energy. "
       },

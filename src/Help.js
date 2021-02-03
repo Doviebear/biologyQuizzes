@@ -23,7 +23,8 @@ function Help() {
       </h3>
       <h3 className="helpText">
         And in case you are wondering, the original questions were created by
-        the amazing John, and the current website you see is my doing, Dovie.
+        the amazing John Hwang, and the current website you see is my doing,
+        Dovie Shalev.
       </h3>
       <h3 className="helpText">
         And no I am not an artist, those icons are by{" "}
