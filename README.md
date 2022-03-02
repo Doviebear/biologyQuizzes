@@ -1,1 +1,1 @@
-Biology Quizzes, what fun
+Online Biology Quizzes, built with React.
